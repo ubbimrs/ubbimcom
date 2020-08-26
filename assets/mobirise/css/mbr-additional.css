@@ -1974,6 +1974,27 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-s8JQEoRJDQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s8JQEoRJDQ .title {
+  margin-bottom: 2rem;
+}
+.cid-s8JQEoRJDQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s8JQEoRJDQ a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s8JQEoRJDQ a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s8JQEoRJDQ textarea.form-control {
+  min-height: 188px;
+}
 .cid-s6EXZPhmhi {
   padding-top: 90px;
   padding-bottom: 90px;
