@@ -32,8 +32,17 @@
     "versionFirst": "4.11.5",
     "siteFonts": [],
     "uniqCompNum": 23,
-    "versionPublish": "4.11.5",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "": "on",
+    "noImageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
