@@ -1793,11 +1793,14 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-s5xHI9mvhc {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/background40.jpg");
 }
 .cid-s5xHI9mvhc .mbr-text,
 .cid-s5xHI9mvhc .mbr-section-btn {
   text-align: left;
+}
+.cid-s5xHI9mvhc H1 {
+  color: #b2ccd2;
 }
 .cid-s6EW8DRTzL {
   padding-top: 90px;
@@ -1911,6 +1914,12 @@ body {
 .cid-s6EW8DRTzL .reverseTimeline {
   display: flex;
   flex-direction: column-reverse;
+}
+.cid-s6EW8DRTzL .mbr-timeline-text {
+  text-align: center;
+}
+.cid-s6EW8DRTzL .mbr-timeline-title {
+  text-align: center;
 }
 .cid-s6EUZW5YdS {
   padding-top: 90px;
@@ -2284,6 +2293,9 @@ body {
 }
 .cid-s6EYkFrjVR .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-s6EYkFrjVR P {
+  color: #f9f295;
 }
 .cid-s5xIVsSihf .navbar {
   padding: .5rem 0;
